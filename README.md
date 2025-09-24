@@ -1,4 +1,4 @@
-# Web Scraping Pokémon Shop
+# Web Scraping Pokemon Items
 
 This project is part of the *Tuwaiq Academy – Week 3 Bootcamp Home Task*.  
 The goal is to practice web scraping using Python, Requests, and BeautifulSoup, then perform a basic Exploratory Data Analysis (EDA)
